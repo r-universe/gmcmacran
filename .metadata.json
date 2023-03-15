@@ -1,0 +1,18 @@
+[
+  {
+    "package": "dann",
+    "oncran": true
+  },
+  {
+    "package": "extendedFamily",
+    "oncran": true
+  },
+  {
+    "package": "GlmSimulatoR",
+    "oncran": true
+  },
+  {
+    "package": "LRTesteR",
+    "oncran": true
+  }
+]
