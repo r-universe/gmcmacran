@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dann"]
 	path = dann
 	url = https://github.com/gmcmacran/dann
-	shallow = true
-	registered = true
 [submodule "extendedFamily"]
 	path = extendedFamily
 	url = https://github.com/gmcmacran/extendedfamily
-	shallow = true
-	registered = true
 [submodule "GlmSimulatoR"]
 	path = GlmSimulatoR
 	url = https://github.com/gmcmacran/glmsimulator
-	shallow = true
-	registered = true
 [submodule "LRTesteR"]
 	path = LRTesteR
 	url = https://github.com/gmcmacran/lrtester
-	shallow = true
-	registered = true
