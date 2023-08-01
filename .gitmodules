@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "dann"]
-	path = dann
-	url = https://github.com/gmcmacran/dann
-[submodule "extendedFamily"]
-	path = extendedFamily
-	url = https://github.com/gmcmacran/extendedfamily
 [submodule "GlmSimulatoR"]
 	path = GlmSimulatoR
 	url = https://github.com/gmcmacran/glmsimulator
 [submodule "LRTesteR"]
 	path = LRTesteR
 	url = https://github.com/gmcmacran/lrtester
+[submodule "dann"]
+	path = dann
+	url = https://github.com/gmcmacran/dann
+[submodule "extendedFamily"]
+	path = extendedFamily
+	url = https://github.com/gmcmacran/extendedfamily
